@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.6f398caa.chunk.css",
+    "main.js": "/clicky-game/static/js/main.547a4f70.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.547a4f70.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/clicky-game/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/clicky-game/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.2fa071e93a4c33d7572356709dda3d5b.js": "/clicky-game/precache-manifest.2fa071e93a4c33d7572356709dda3d5b.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.6f398caa.chunk.css.map": "/clicky-game/static/css/main.6f398caa.chunk.css.map",
+    "static/media/puppy1.jpg": "/clicky-game/static/media/puppy1.9127bb54.jpg",
+    "static/media/puppy10.jpg": "/clicky-game/static/media/puppy10.2c4adc86.jpg",
+    "static/media/puppy11.jpg": "/clicky-game/static/media/puppy11.c6922dbc.jpg",
+    "static/media/puppy12.jpg": "/clicky-game/static/media/puppy12.b6ba7359.jpg",
+    "static/media/puppy2.jpg": "/clicky-game/static/media/puppy2.c9b2ff46.jpg",
+    "static/media/puppy3.jpg": "/clicky-game/static/media/puppy3.e9459fa3.jpg",
+    "static/media/puppy4.jpg": "/clicky-game/static/media/puppy4.159db365.jpg",
+    "static/media/puppy5.jpg": "/clicky-game/static/media/puppy5.c37756a8.jpg",
+    "static/media/puppy6.jpg": "/clicky-game/static/media/puppy6.beaa43a6.jpg",
+    "static/media/puppy7.jpg": "/clicky-game/static/media/puppy7.22719ef6.jpg",
+    "static/media/puppy8.jpg": "/clicky-game/static/media/puppy8.48ad7943.jpg",
+    "static/media/puppy9.jpg": "/clicky-game/static/media/puppy9.96aab145.jpg"
+  }
+}
