@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "puppy1.jpg"
+  },
+  {
+    "id": 2,
+    "image": "puppy2.jpg"    
+  },
+  {
+    "id": 3,
+    "image": "puppy3.jpg"
+  },
+  {
+    "id": 4,
+    "image": "puppy4.jpg" 
+  },
+  {
+    "id": 5,
+    "image": "puppy5.jpg"
+  },
+  {
+    "id": 6,
+    "image": "puppy6.jpg"
+  },
+  {
+    "id": 7,
+    "image": "puppy7.jpg"
+  },
+  {
+    "id": 8,
+    "image": "puppy8.jpg"
+  },
+  {
+    "id": 9,
+    "image": "puppy9.jpg"
+  },
+  {
+    "id": 10,
+    "image": "puppy10.jpg"
+  },
+  {
+    "id": 11,
+    "image": "puppy11.jpg"
+  },
+  {
+    "id": 12,
+    "image": "puppy12.jpg"
+  }
+]
