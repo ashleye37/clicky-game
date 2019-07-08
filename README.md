@@ -1,6 +1,9 @@
 # Clicky-Game
 This is a memory game using React and is deployed using GitHub Pages.
 
+## Link To Game
+- https://ashleye37.github.io/clicky-game/
+
 ## Technologies Used
 
 - React
